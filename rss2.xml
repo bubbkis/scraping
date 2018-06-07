@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>gihyo.jp：総合</title>
+ <link>http://gihyo.jp/</link>
+ <description>gihyo.jp（総合）の更新情報をお届けします</description>
+ <language>ja-jp</language>
+ <copyright>技術評論社 2018</copyright>
+ <lastBuildDate>Thu, 07 Jun 2018 17:22:01 +0900</lastBuildDate>
+ <image>
+  <url>http://gihyo.jp/assets/templates/gihyojp2007/image/header_logo_gihyo.gif</url>
+  <title>gihyo.jp</title>
+  <link>http://gihyo.jp/</link>
+ </image>
+ <item>
+  <title>第5回　Googleアシスタント最新動向 ── 優しいUI～ボイスユーザインターフェースで変わるコト</title>
+  <link>http://gihyo.jp/dev/serial/01/voiceui/0005</link>
+  <description>今回は，これからのボイスユーザインターフェースに影響を与える可能性のある「Googleアシスタント」の最新動向に触れてみます。
+</description>
+  <pubDate>Thu, 07 Jun 2018 10:03:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/voiceui">優しいUI～ボイスユーザインターフェースで変わるコト</category>
+  <guid>http://gihyo.jp/dev/serial/01/voiceui/0005</guid> 
+  <author>傍島康雄</author>
+ </item>
+ <item>
+  <title>2018年6月第2週　Androidタブレット，この先どうなる？ ── Android Weekly Topics</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/awt/201806/07</link>
+  <description>2018年6月第2週のAndroid関連のニュースです</description>
+  <pubDate>Thu, 07 Jun 2018 09:31:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/awt">Android Weekly Topics</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/awt/201806/07</guid> 
+  <author>傍島康雄</author>
+ </item>
+ <item>
+  <title>2018年6月第1週号 1位は，良いマイクロコピーを書く10個のヒント，気になるネタは，ドラえもんとおしゃべりできる「Clova Friends mini」発売へ ── 週刊Webテク通信</title>
+  <link>http://gihyo.jp/design/clip/01/weekly-web-tech/201806/07</link>
+  <description>ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2018年5月28日～6月3日の間に見つけた記事のベスト5です。</description>
+  <pubDate>Thu, 07 Jun 2018 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/design/clip/01/weekly-web-tech">週刊Webテク通信</category>
+  <guid>http://gihyo.jp/design/clip/01/weekly-web-tech/201806/07</guid> 
+  <author>芦之由</author>
+ </item>
+ <item>
+  <title>第522回　Ubuntu 18.04 LTSの32ビットサポート事情とネットブック ── Ubuntu Weekly Recipe</title>
+  <link>http://gihyo.jp/admin/serial/01/ubuntu-recipe/0522</link>
+  <description>今回はUbuntu 18.04 LTSの32ビット（i386）サポート状況を振り返りつつ，ネットブックの名機，ASUS Eee PC 901-16GにUbuntu MATEをインストールします。</description>
+  <pubDate>Wed, 06 Jun 2018 10:07:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/serial/01/ubuntu-recipe">Ubuntu Weekly Recipe</category>
+  <guid>http://gihyo.jp/admin/serial/01/ubuntu-recipe/0522</guid> 
+  <author>あわしろいくや</author>
+ </item>
+ <item>
+  <title>File.#004　遅れてきたIT革命（連載第106回） ── きたみりゅうじの聞かせて珍プレー プレイバック</title>
+  <link>http://gihyo.jp/dev/serial/01/funny-play-pb/0004</link>
+  <description>東京のあわただしい生活に疲れ，地方にIターンした友人，仕事のほうも決まって悠々自適な生活になったのですが，その仕事先が超がつくほどのアナログ環境。
+</description>
+  <pubDate>Wed, 06 Jun 2018 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/funny-play-pb">きたみりゅうじの聞かせて珍プレー プレイバック</category>
+  <guid>http://gihyo.jp/dev/serial/01/funny-play-pb/0004</guid> 
+  <author>きたみりゅうじ</author>
+ </item>
+ <item>
+  <title>2018年6月5日　Linux 4.17がリリース，注目の&quot;Linux 5.0&quot;は2018年末か ── Linux Daily Topics</title>
+  <link>http://gihyo.jp/admin/clip/01/linux_dt/201806/05</link>
+  <description>Linus Torvaldsは6月3日，Linuxカーネル開発者向けメーリングリスト「LKML.org」において「Linux 4.17」の正式リリースを発表した。</description>
+  <pubDate>Tue, 05 Jun 2018 16:28:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>http://gihyo.jp/admin/clip/01/linux_dt/201806/05</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>Adobe Design Jimoto vol.7 with ami tumi in 前橋，開催～デザインの力で地域と社会を活性化 ── レポート</title>
+  <link>http://gihyo.jp/news/report/2018/06/0501</link>
+  <description>2018年5月27日，群馬県前橋市にある上毛倉庫にて，「Adobe Design Jimoto vol.7 with ami tumi in 前橋（以降Design Jimoto前橋）」が開催された。</description>
+  <pubDate>Tue, 05 Jun 2018 16:01:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/report">レポート</category>
+  <guid>http://gihyo.jp/news/report/2018/06/0501</guid> 
+  <author>馮富久</author>
+ </item>
+ <item>
+  <title>オープンソースの「ゼロサムゲーム」に終止符？ ―MicrosoftがGitHubを75億ドルで買収 ── ニュースリリース</title>
+  <link>http://gihyo.jp/news/nr/2018/06/0501</link>
+  <description>MicrosoftとGitHubは6月4日（米国時間），Microsoftが75億ドル（約8230億円）でGitHubを買収したことを発表しました。</description>
+  <pubDate>Tue, 05 Jun 2018 10:07:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/nr">ニュースリリース</category>
+  <guid>http://gihyo.jp/news/nr/2018/06/0501</guid> 
+  <author>五味明子</author>
+ </item>
+ <item>
+  <title>Amazon SageMaker東京リージョン提供開始を発表「AWS Summit Tokyo 2018」3日目キーノートより ── レポート</title>
+  <link>http://gihyo.jp/news/report/2018/06/0101</link>
+  <description>5月30日（水）～6月1日（金）の3日間，東京，グランドプリンスホテル新高輪にて開催された「AWS Summit Tokyo 2018」。3日目のキーノートにはAWS，Cloud Architecture StrategyのVPであるAdrian Cockcroft氏が登壇しました。</description>
+  <pubDate>Fri, 01 Jun 2018 18:04:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/report">レポート</category>
+  <guid>http://gihyo.jp/news/report/2018/06/0101</guid> 
+  <author>小坂浩史</author>
+ </item>
+ <item>
+  <title>第34回　MySQL Innovation Day開催，PostgreSQL 10.4リリース，PostgreSQL 11ベータ1リリース ── OSSデータベース取り取り時報</title>
+  <link>http://gihyo.jp/dev/serial/01/oss-db-various-news/0034</link>
+  <description>MySQLは，8.0のリリースを記念したイベントMySQL Innovation Dayが全国5都市で開催されました。</description>
+  <pubDate>Fri, 01 Jun 2018 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/oss-db-various-news">OSSデータベース取り取り時報</category>
+  <guid>http://gihyo.jp/dev/serial/01/oss-db-various-news/0034</guid> 
+  <author>山本文彦，梶山隆輔</author>
+ </item>
+ <item>
+  <title>2018年6月1日号　18.04.1のリリース時期, 18.10のDesktop Plan, Ubuntu搭載テニスボール自動拾い機 ── Ubuntu Weekly Topics</title>
+  <link>http://gihyo.jp/admin/clip/01/ubuntu-topics/201806/01</link>
+  <description>Ubuntu DesktopのDirectorであるWill Cookeによる，18.04.1のリリース予定と18.10に向けた展望の解説が行われています。</description>
+  <pubDate>Fri, 01 Jun 2018 09:22:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/clip/01/ubuntu-topics">Ubuntu Weekly Topics</category>
+  <guid>http://gihyo.jp/admin/clip/01/ubuntu-topics/201806/01</guid> 
+  <author>吉田史</author>
+ </item>
+ <item>
+  <title>2018年5月第5週号 1位は，CSSでの各種レイアウト手法を初歩から分かりやすく解説，気になるネタは，CSSEdit，Espressoの開発元MacRabbitが終了を発表 ── 週刊Webテク通信</title>
+  <link>http://gihyo.jp/design/clip/01/weekly-web-tech/201805/31</link>
+  <description>ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2018年5月21日～5月27日の間に見つけた記事のベスト5です。</description>
+  <pubDate>Thu, 31 May 2018 09:31:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/design/clip/01/weekly-web-tech">週刊Webテク通信</category>
+  <guid>http://gihyo.jp/design/clip/01/weekly-web-tech/201805/31</guid> 
+  <author>芦之由</author>
+ </item>
+ <item>
+  <title>2018年5月第5週　Google PayがSuicaとWAONに対応 ── Android Weekly Topics</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/awt/201805/31</link>
+  <description>2018年5月第5週のAndroid関連のニュースをお届けします。</description>
+  <pubDate>Thu, 31 May 2018 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/awt">Android Weekly Topics</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/awt/201805/31</guid> 
+  <author>傍島康雄</author>
+ </item>
+ <item>
+  <title>「SORACOM Conference &quot;Discovery&quot; 2018」7/4に開催 ―「Discovery・Digitalization・Democratization」がテーマ ── インフォメーション</title>
+  <link>http://gihyo.jp/news/info/2018/05/3001</link>
+  <description>（株）ソラコムは，2018年7月4日（水）にANAインターコンチネンタルホテル東京にて，「SORACOM Conference “Discovery”2018」を開催する。</description>
+  <pubDate>Wed, 30 May 2018 17:59:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/info">インフォメーション</category>
+  <guid>http://gihyo.jp/news/info/2018/05/3001</guid> 
+  <author>技術評論社</author>
+ </item>
+ <item>
+  <title>第521回　入門システムコンテナマネージャーLXD 3.0 ── Ubuntu Weekly Recipe</title>
+  <link>http://gihyo.jp/admin/serial/01/ubuntu-recipe/0521</link>
+  <description>先日リリースされたUbuntu 18.04 LTSでは，4月にリリースされたばかりのLXD 3.0が導入されました。今回はUbuntu標準のシステムコンテナであるLXDについて，改めて基本的な使い方を説明します。</description>
+  <pubDate>Wed, 30 May 2018 09:57:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/serial/01/ubuntu-recipe">Ubuntu Weekly Recipe</category>
+  <guid>http://gihyo.jp/admin/serial/01/ubuntu-recipe/0521</guid> 
+  <author>柴田充也</author>
+ </item>
+ <item>
+  <title>2018年5月30日　Fedora 26がEOL，ユーザはFedora 28へのアップグレードを ── Linux Daily Topics</title>
+  <link>http://gihyo.jp/admin/clip/01/linux_dt/201805/30</link>
+  <description>Fedoraプロジェクトは5月28日，2017年7月にリリースされた「Fedora 26」が5月29日をもってサポート終了（EOL：End of Life）となることを発表した。</description>
+  <pubDate>Wed, 30 May 2018 09:41:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>http://gihyo.jp/admin/clip/01/linux_dt/201805/30</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>File.#003　嗚呼，プラスドライバー（連載第12回） ── きたみりゅうじの聞かせて珍プレー プレイバック</title>
+  <link>http://gihyo.jp/dev/serial/01/funny-play-pb/0003</link>
+  <description>深夜にシステムの基幹部分で障害が発生し，残業していた2人（私と先輩）で対応を行うことになりました。
+</description>
+  <pubDate>Wed, 30 May 2018 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/funny-play-pb">きたみりゅうじの聞かせて珍プレー プレイバック</category>
+  <guid>http://gihyo.jp/dev/serial/01/funny-play-pb/0003</guid> 
+  <author>きたみりゅうじ</author>
+ </item>
+ <item>
+  <title>ヌーラボ，「サイボウズLive」のデータをBacklogに移行するツールをベータリリース ── ニュースリリース</title>
+  <link>http://gihyo.jp/news/nr/2018/05/2901</link>
+  <description>プロジェクト管理ツール「Backlog」を開発，運営するヌーラボは，サイボウズのグループウェア「サイボウズLive」のデータをBacklogに移行するツールの無償提供を開始した。</description>
+  <pubDate>Tue, 29 May 2018 11:58:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/nr">ニュースリリース</category>
+  <guid>http://gihyo.jp/news/nr/2018/05/2901</guid> 
+  <author>技術評論社</author>
+ </item>
+ <item>
+  <title>第72回　行ベースレプリケーション関連のオプション ── MySQL道普請便り</title>
+  <link>http://gihyo.jp/dev/serial/01/mysql-road-construction-news/0072</link>
+  <description>今回は行ベースレプリケーションにおいて，設定しておくと得するオプションについて紹介したいと思います。</description>
+  <pubDate>Tue, 29 May 2018 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/mysql-road-construction-news">MySQL道普請便り</category>
+  <guid>http://gihyo.jp/dev/serial/01/mysql-road-construction-news/0072</guid> 
+  <author>北川健太郎</author>
+ </item>
+ <item>
+  <title>2018年5月29日　GNOME，2年間で100万ドルの匿名寄付の申し出を受ける ── Linux Daily Topics</title>
+  <link>http://gihyo.jp/admin/clip/01/linux_dt/201805/29</link>
+  <description>GNOME Foundationは5月25日，ある匿名の人物から今後2年間に渡り，100万ドルの寄付の申し出があったことを明らかにした。</description>
+  <pubDate>Tue, 29 May 2018 09:15:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>http://gihyo.jp/admin/clip/01/linux_dt/201805/29</guid> 
+  <author>階戸アキラ</author>
+ </item>
+</channel>
+</rss>
